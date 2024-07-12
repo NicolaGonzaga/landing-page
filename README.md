@@ -9,3 +9,9 @@ npm install
 ```
 npm run dev
 ```
+
+
+## Vercel app
+
+[Landing Page](https://landing-page-virid-two.vercel.app/)
+
