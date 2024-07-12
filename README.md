@@ -1,4 +1,4 @@
-### Chakra UI and Next.js Landing Page
+# Next.js and Chakra UI Landing Page
 
 ## Running Locally
 
